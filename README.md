@@ -1,4 +1,4 @@
-# ETL_Python_dados_IBGE
+# ETL com Python - dados IBGE
 Este repositório exemplifica um simples processo de ETL em ambiente local, utilizando conceitos de modelagem dimensional.
 
 <h3>Objetivo:</h3>
