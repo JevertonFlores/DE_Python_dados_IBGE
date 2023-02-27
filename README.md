@@ -38,3 +38,8 @@ Via linguagem Python, serão coletados dados contidos em arquivos .csv e também
 
 <h3>Modelo lógico do Data Warehouse:</h3>
 <img width="298" alt="image" src="https://user-images.githubusercontent.com/36814309/221437834-0d237be5-cb63-4f96-ae5c-d35258dd8313.png">
+
+
+<h3>Resultado final: tabelas criadas, modeladas e populadas no DW, disponíveis para consultas e análises:</h3>
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/36814309/221486226-84004753-e4eb-4a59-a427-54cd0ce7e196.png">
+
