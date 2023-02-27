@@ -24,6 +24,8 @@ Via linguagem Python, serão coletados dados contidos em arquivos .csv e também
 
 **Acesse os scripts:**
 
+<a href="https://github.com/JevertonFlores/ETL_Python_dados_IBGE/tree/main/00.%20Cria%C3%A7%C3%A3o%20da%20estrutura%20de%20banco%20de%20dados">- Criação da estrutura de banco de dados;</a>
+
 <a href="https://github.com/JevertonFlores/ETL_Python_dados_IBGE/tree/main/01.%20Coleta%20de%20Dados">- Coleta de Dados;</a>
 
 <a href="https://github.com/JevertonFlores/ETL_Python_dados_IBGE/tree/main/02.%20Dimens%C3%B5es">- Desenvolvimento das tabelas de Dimensão;</a>
